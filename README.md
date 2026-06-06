@@ -1,7 +1,8 @@
-## Hi there 👋
+### Hi, I'm Miwafi
 
-I'm **Miwafi**, a developer passionate about building cool things with code.
-
-- 🔭 I'm currently working on **personal projects and open-source contributions**
-- 🌱 I'm currently learning **new programming languages and frameworks**
-- ❤️‍🩹 The developers are poor, if you are willing to sponsor some resources, you are always welcome.
+- Working on personal open-source projects in spare time
+- Always learning new languages & frameworks to level up coding skills
+- Short on budget for dev resources, sponsors are super appreciated!
+### About Me
+- I usually feel in a bad mood, so my words might be hurtful, sry.
+- There was supposed to be something here, but I forgot...
