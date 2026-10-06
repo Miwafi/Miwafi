@@ -13,7 +13,7 @@
 
   <br><br>
 
-  <!-- 统计概览与语言分布并排 -->
+  <!-- 第一行横板：统计概览 + 语言分布 -->
   <table>
     <tr>
       <td>
@@ -31,16 +31,21 @@
 
   <br><br>
 
-  <!-- 精选仓库 Pin -->
-  <a href="https://github.com/Miwafi/Kil0yOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miwafi&repo=Kil0yOS&theme=ambient_gradient&hide_border=true&show_owner=false" alt="Kil0yOS" />
-  </a>
-
-  <br><br>
-
-  <!-- 社交链接 -->
-  <a href="https://github.com/Miwafi">
-    <img src="https://img.shields.io/badge/GitHub-Miwafi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <!-- 第二行横板：精选仓库 + 社交链接 -->
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Miwafi/Kil0yOS">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miwafi&repo=Kil0yOS&theme=ambient_gradient&hide_border=true&show_owner=false" alt="Kil0yOS" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Miwifi">
+          <!-- 使用大尺寸徽章填充高度，与左侧仓库卡片视觉平衡 -->
+          <img src="https://img.shields.io/badge/GitHub-Miwafi-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=orange" alt="GitHub" style="height: 40px;" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
