@@ -9,9 +9,9 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/wfghb/你的仓库名" target="_blank">
+  <a href="https://github.com/Miwafi/Kil0yOS" target="_blank">
     <img alt="GitHub Stars" 
-         src="https://img.shields.io/github/stars/wfghb/你的仓库名?style=flat&color=orange&label=Stars" 
+         src="https://img.shields.io/github/stars/Miwafi/Kil0yOS?style=flat&color=orange&label=Stars" 
          style="image-rendering: pixelated; transform: scale(1);">
   </a>
 </p>
