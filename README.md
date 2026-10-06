@@ -7,8 +7,7 @@
 ---
 
 <div align="center">
-
-  <img src="https://count.getloli.com/@Miwafi?theme=booru-touhoulat&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
+<img src="https://count.getloli.com/@wfghb?theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
 
   <br><br>
 
