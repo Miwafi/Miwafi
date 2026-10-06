@@ -8,12 +8,10 @@
 
 <div align="center">
 
-  <!-- 访客计数 -->
   <img src="https://count.getloli.com/@Miwafi?theme=booru-touhoulat&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
 
   <br><br>
 
-  <!-- 第一行横板：统计概览 + 语言分布 -->
   <table>
     <tr>
       <td>
@@ -31,7 +29,6 @@
 
   <br><br>
 
-  <!-- 第二行横板：精选仓库 + 社交链接 -->
   <table>
     <tr>
       <td>
@@ -40,8 +37,7 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/Miwifi">
-          <!-- 使用大尺寸徽章填充高度，与左侧仓库卡片视觉平衡 -->
+        <a href="https://github.com/Miwafi">
           <img src="https://img.shields.io/badge/GitHub-Miwafi-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=orange" alt="GitHub" style="height: 40px;" />
         </a>
       </td>
