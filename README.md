@@ -20,11 +20,9 @@
 
   <br><br>
 
-  <!-- Star 徽章 -->
-  <a href="https://github.com/Miwafi/Kil0yOS" target="_blank">
-    <img alt="GitHub Stars" 
-         src="https://img.shields.io/github/stars/Miwafi/Kil0yOS?style=flat&color=orange&label=Stars" 
-         style="image-rendering: pixelated; transform: scale(1);">
+<!-- GitHub 统计概览 -->
+  <a href="https://github.com/Miwafi">
+    <img src="https://github-readme-stats.vercel.app/api?username=Miwafi&show_icons=true&theme=ambient_gradient&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
 
   <br><br>
